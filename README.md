@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```bash
-echo 'aSdtIGRlbW9NYW5pdG8K' | base64 -d
+echo 'SSdtIGRlbW9NYW5pdG8K' | base64 -d
 ```
 <!--
 **tangjingyu97/tangjingyu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
